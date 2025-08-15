@@ -1,6 +1,9 @@
 # Tesla Authentication Service
 
 A Java service for obtaining Tesla API access tokens and refresh tokens using username and password authentication.
+<p>
+Note: 
+    Authentication failed: Token request failed: HTTP 400: {"response":null,"error":"Endpoint deprecated: Please update your App.","error_description":""}
 
 ## Features
 
