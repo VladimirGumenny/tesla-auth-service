@@ -1,0 +1,6 @@
+As a result I got URL: https://auth.tesla.com/void/callback?code=NA_778227fb989bd68947e76a9db8a8aaad22a623ca39ff1c108a0547090044&issuer=https%3A%2F%2Fauth.tesla.com%2Foauth2%2Fv3
+
+And page with an error: "Page Not Found"
+
+Additional info. This is what I got as a first prompt: "1. Visit this URL in your browser to authorize: https://auth.tesla.com/oauth2/v3/authorize?client_id=ownerapi&redirect_uri=https://auth.tesla.com/void/callback&response_type=code&scope=openid email offline_access&state=Aiywc79EqBOA7kUQDCocGg&code_challenge=lY1aLsxFX4sOYY3DVD8bZFD9iyPE-5Q6agMY2NGkALE&code_challenge_method=S256".
+URL contains spaces, not sure if this is correct.
